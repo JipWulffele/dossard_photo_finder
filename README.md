@@ -42,7 +42,7 @@ The repo is organized around **three notebooks**. Each one tackles a specific pa
 - Requires a GPU (Colab GPU works well).
 - Training on 100 images takes ~20 minutes (Colab GPU).
 
-📦 Download the pre-trained model here: (https://drive.google.com/file/d/1j9Qd_7EHIro6HpJ7a5Tfy6XfsAhAaFjo/view?usp=drive_link)
+📦 [Download the pre-trained model here](https://drive.google.com/file/d/1j9Qd_7EHIro6HpJ7a5Tfy6XfsAhAaFjo/view?usp=drive_link)
 
 ---
 
